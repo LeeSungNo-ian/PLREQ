@@ -1,10 +1,10 @@
 # PLREQ
+![Frame 31](https://user-images.githubusercontent.com/63584245/200192722-3c56524b-4fa4-403e-96ba-441e28727829.svg)
 
-<img src="">
 
 **손쉽게 카페, 바, 콘서트, 페스티벌, 클럽 등에서 흘러나오는 플레이리스트들을 저장해보세요. 저장한 플레이리스트들을 위치별로 보관하고, 여러 스트리밍 플랫폼으로 내보낼 수 있습니다!**
 
-🔗 App Store : <a href="">PLREQ</a>
+🔗 App Store : <a href="https://apps.apple.com/kr/app/plreq/id6444010757?l=en">PLREQ</a>
 
 </br>
 
@@ -27,7 +27,7 @@
 
 - 지원 플랫폼  
 애플 뮤직(Apple Music), 지니(Genie), 플로(FLO), 바이브(VIBE), 벅스(Bugs)  
-(11월 8일 추가 예정 - 유튜브 뮤직(Youtube Music), 유튜브(Youtube), 스포티파이(Sportify))
+(11월 18일 추가 예정 - 유튜브 뮤직(Youtube Music), 유튜브(Youtube), 스포티파이(Sportify))
 
 </br>
 
@@ -72,11 +72,13 @@
   - MapKit
   - Coredata
   - CoreLocation
+  - Express.js
 
   ### Communication
   - Miro
   - Notion
   - Github
+  - FigJam
   
   ### Design
   - Figma
